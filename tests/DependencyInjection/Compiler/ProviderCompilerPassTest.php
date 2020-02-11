@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Yamilovs\Bundle\SmsBundle\Tests\DependencyInjection\Compiler;
 
-use Symfony\Bundle\FrameworkBundle\Tests\TestCase;
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Definition;
 use Yamilovs\Bundle\SmsBundle\DependencyInjection\Compiler\ProviderCompilerPass;

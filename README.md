@@ -80,10 +80,3 @@ class FooController extends Controller
 
 
 ```
-
-# Tips
-
-You can check sms delivery by the following command:
-``` bash
-$ php bin/console yamilovs:sms:delivery:test [your_provider_name] [your_phone_number] [your_message_text]
-```
