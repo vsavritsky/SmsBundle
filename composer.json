@@ -1,5 +1,5 @@
 {
-    "name": "adapik/sms-bundle",
+    "name": "vsavritsky/sms-bundle",
     "type": "symfony-bundle",
     "description": "Sms sending system with different providers",
     "keywords": [
